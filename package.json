@@ -1,6 +1,6 @@
 {
-  "name": "ng-stepper",
-  "version": "0.1.0",
+  "name": "@cloudraker/ng-stepper",
+  "version": "0.1.2",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
